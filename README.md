@@ -4,3 +4,5 @@
 程式碼(matlab)：請點選"Code"資料夾
 
 Dataset：USD_CNY.xlsx
+
+書面報告:匯率波動度聯動結構型商品.pdf
